@@ -3,6 +3,8 @@ layout: post
 title: TUTORIAL: Building a Jekyll blog with Github Pages
 ---
 
+# TUTORIAL: Building a Jekyll blog with Github Pages
+
 After procrastinating on starting a blog for years, this blog only took me 30 minutes to get started. I did have to spend some more time familiarizing myself with the specifics of Markdown (my prior knowledge is elementary) but this [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) includes all of the basics.
 
 Based on this [tutorial](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/), I wrote a TLDR version below. Please do be sure to at least skim the tutorial as it includes tips I didn't include, useful pictures, and more optional steps. 
@@ -18,7 +20,7 @@ Directions
 
 4. Edit `/_posts/2014-3-3-Hello-World.md` and update the date and title of your post.
    
-   Note: Jekyll follows the following naming convention: `year-month-day-title.md`
+   Note: Jekyll follows the following naming convention: `YEAR-MONTH-DAY-title.md` where `YEAR` is four digits and `MONTH` and `DAY` are both two digits. Be sure to update the information between the three dashes - that's the (Front Matter)[https://jekyllrb.com/docs/front-matter/] and where you can set predefined/custom variables such as date or tags.
 
 DONE!
 
