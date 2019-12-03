@@ -1,14 +1,15 @@
 ---
 layout: post
-title: TUTORIAL Building a Jekyll blog with Github Pages
+title: Building a Jekyll blog with Github Pages
 date: 2019-12-03
+tags: tutorial
 ---
 
-# TUTORIAL: Building a Jekyll blog with Github Pages
+# Building a Jekyll blog with Github Pages
 
-After procrastinating on starting a blog for years, I finally decided to use Github Pages. It only took me 30 minutes to get started! I did have to spend some more time familiarizing myself with the specifics of Markdown (my prior knowledge is elementary) but this [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) includes all of the basics.
+After procrastinating on starting a blog for years, I finally decided to use Github Pages. It only took me 30 minutes to get started! I did have to spend some more time familiarizing myself with the specifics of Markdown (my prior knowledge is elementary and I keep mixing up which brackets to use for links) but this [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) includes all of the basics.
 
-Based on this [tutorial](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/), I wrote a TLDR version below. Please do be sure to at least skim the tutorial as it includes tips I didn't include, useful pictures, and more optional steps. 
+Based on this [tutorial](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/), I wrote a TLDR version. Please do be sure to at least skim the tutorial as it has tips I didn't include, useful pictures, and other optional steps. 
 
 ### Directions
 
@@ -22,11 +23,16 @@ Based on this [tutorial](https://www.smashingmagazine.com/2014/08/build-blog-jek
 
 4. Edit `/_posts/2014-3-3-Hello-World.md` and update the date and title of your post. Your website should be rebuilt automatically so that the `READ MORE` link points to your first post.
    
-   Note: Jekyll follows the following naming convention: `YEAR-MONTH-DAY-title.md` where `YEAR` is four digits and `MONTH` and `DAY` are both two digits. Be sure to update the information between the three dashes - that's the (Front Matter)[https://jekyllrb.com/docs/front-matter/] and where you can set predefined/custom variables such as date or tags.
+   Note: Jekyll follows the following naming convention: `YEAR-MONTH-DAY-title.md` where `YEAR` is four digits and `MONTH` and `DAY` are both two digits. Be sure to update the information between the three dashes - that's the [Front Matter](https://jekyllrb.com/docs/front-matter/) and where you can set predefined/custom variables such as date or tags.
 
 DONE!
 
-Other useful resources:
+### More steps
+
+* Choose a [theme](https://help.github.com/en/github/working-with-github-pages/adding-a-theme-to-your-github-pages-site-with-the-theme-chooser)
+
+
+### Other useful resources:
 
 * https://help.github.com/en/github/working-with-github-pages/about-github-pages-and-jekyll
 * https://help.github.com/en/github/working-with-github-pages/getting-started-with-github-pages
