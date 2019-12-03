@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TUTORIAL: Building a Jekyll blog with Github Pages
+title: TUTORIAL Building a Jekyll blog with Github Pages
 date: 2019-12-03
 ---
 
