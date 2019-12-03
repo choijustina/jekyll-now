@@ -6,7 +6,7 @@ date: 2019-12-03
 
 # TUTORIAL: Building a Jekyll blog with Github Pages
 
-After procrastinating on starting a blog for years, this blog only took me 30 minutes to get started. I did have to spend some more time familiarizing myself with the specifics of Markdown (my prior knowledge is elementary) but this [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) includes all of the basics.
+After procrastinating on starting a blog for years, I finally decided to use Github Pages. It only took me 30 minutes to get started! I did have to spend some more time familiarizing myself with the specifics of Markdown (my prior knowledge is elementary) but this [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) includes all of the basics.
 
 Based on this [tutorial](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/), I wrote a TLDR version below. Please do be sure to at least skim the tutorial as it includes tips I didn't include, useful pictures, and more optional steps. 
 
