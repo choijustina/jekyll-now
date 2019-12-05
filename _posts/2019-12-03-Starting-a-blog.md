@@ -25,7 +25,7 @@ Based on this [tutorial](https://www.smashingmagazine.com/2014/08/build-blog-jek
 
 4. Edit `/_posts/2014-3-3-Hello-World.md` and update the date and title of your post. Your website should be rebuilt automatically so that the `READ MORE` link points to your first post.
    
-   Note: Jekyll follows the following naming convention: `YEAR-MONTH-DAY-title.md` where `YEAR` is four digits and `MONTH` and `DAY` are both two digits. Be sure to update the information between the three dashes - that's the [Front Matter](https://jekyllrb.com/docs/front-matter/) and where you can set predefined/custom variables such as date or tags.
+   Note: Jekyll follows the following naming convention: `YEAR-MONTH-DAY-title.md` where `YEAR` is four digits and `MONTH` and `DAY` are both two digits.
 
 DONE!
 
