@@ -2,7 +2,7 @@
 layout: post
 title: Liquid Templating language
 date: 2019-12-04
-tags: tutorial, blogging
+tags: blogging
 ---
 
 See Jekyll documentation on [Liquid](https://jekyllrb.com/docs/liquid/) and a list of Liquid variables available [here](https://jekyllrb.com/docs/variables/).
