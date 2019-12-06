@@ -2,7 +2,7 @@
 layout: post
 title: Starting a blog
 date: 2019-12-03
-tags: tutorial
+tags: tutorial, blogging
 ---
 
 After procrastinating on starting a blog for years, I finally decided to use Github Pages. That way, I could use version control I'm already familiar with. As a static site hosting service, Github recommends Jekyll and even though I had never used it before, it only took me 30 minutes to get started!
