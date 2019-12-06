@@ -5,8 +5,6 @@ date: 2019-12-03
 tags: tutorial
 ---
 
-# Starting a blog
-
 After procrastinating on starting a blog for years, I finally decided to use Github Pages. That way, I could use version control I'm already familiar with. As a static site hosting service, Github recommends Jekyll and even though I had never used it before, it only took me 30 minutes to get started!
 
 I did have to spend some more time familiarizing myself with the specifics of Markdown (my prior knowledge is elementary and I still keep mixing up which brackets to use for links) but this [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) includes all of the basics.
