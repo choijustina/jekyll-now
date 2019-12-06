@@ -1,0 +1,15 @@
+---
+layout: post
+title: Jekyll Themes
+date: 2019-12-06
+tags: blogging
+---
+
+The hard part isn't getting started. WHY DOES IT LOOK SO UGLY.
+
+I tried to change the theme by following these [instructions](https://help.github.com/en/github/working-with-github-pages/adding-a-theme-to-your-github-pages-site-with-the-theme-chooser) from the Github Help section, but it still looked exactly the same to me.
+
+I had forked repo from barryclark/jekyll-now. Instead, follow these tutorials:
+
+<https://onextrapixel.com/start-jekyll-blog-github-pages-free/>
+<https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/>
