@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mac Terminal Hints, Tips, and List of commands
+title: Linux Terminal Hints, Tips, and List of commands
 date: 2019-12-09
 tags: linux
 ---
