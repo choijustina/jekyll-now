@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Linux Terminal Hints, Tips, and List of commands
+title: Linux Terminal Hints, Tips, and List helpful of commands
 date: 2019-12-09
 tags: linux
 ---
 
 Sometimes after using Windows for too longer, my brain forgets how to Linux.
 
-## Commands
+## Basic and Advanced Commands
 
 ### Basic Commands
 
