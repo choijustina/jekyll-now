@@ -12,4 +12,14 @@ I tried to change the theme by following these [instructions](https://help.githu
 I had forked repo from barryclark/jekyll-now. Instead, follow these tutorials:
 
 <https://onextrapixel.com/start-jekyll-blog-github-pages-free/>
+
+
 <https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/>
+
+RubyGems is the package manager service for the Ruby programming language.
+
+$ sudo apt-get update
+$ sudo apt install ruby
+
+
+
